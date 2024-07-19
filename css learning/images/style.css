@@ -1,0 +1,9 @@
+div{
+    background-color:green
+}
+.sample p span{
+    color:red;
+    font-size:xx-large;
+    border: 1px solid yellow;
+    column-count:4;
+}

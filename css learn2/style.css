@@ -1,0 +1,28 @@
+
+ .A {
+    border:5px solid black;
+    padding-left: 200px;
+    margin-top: 10px;
+ }
+ .B {
+    border:5px solid green;
+    padding-left: 200px;
+    margin-top: 10px;
+ }
+
+h1{
+    text-align: center;
+    color:red;
+}
+img{
+    width: 100px;
+    
+}
+body{
+    
+    background-image: url(images/knkm.jfif);
+    background-size: cover;
+    box-sizing: border-box;
+
+}
+
